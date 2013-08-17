@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Take Me To Your Leader</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="map_icon">map_icon</string>
+    <string name="dialer_icon">dialer_icon</string>
+    <string name="browser_icon">browser_icon</string>
+
+</resources>
